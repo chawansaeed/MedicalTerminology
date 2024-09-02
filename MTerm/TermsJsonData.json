@@ -1,0 +1,581 @@
+{
+    "MedicalTerms" : [
+        {
+          "medicalTerm":"AC",
+          "termMeaning":"Ante cibum, or before meals, indicating when a patient should take medication",
+          "pronounciation":"1",
+          "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"ADR",
+          "termMeaning":"Adverse drug reaction",
+          "pronounciation":"2",
+          "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"ALOC",
+          "termMeaning":"Acute loss of consciousness",
+          "pronounciation":"3",
+          "type": "Abbreviations and acronyms"
+        },
+        {
+            "medicalTerm":"BMI",
+            "termMeaning":"Body mass index, a measurement of body fat based on height and weight",
+            "pronounciation":"4",
+            "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"BP",
+          "termMeaning":"Blood pressure, a measurement of the pressure exerted by the flow of blood upon vessel walls. This measurement is expressed using two numbers, the systolic, or highest pressure and the diastolic, or lowest pressure.",
+                      "pronounciation":"5",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"CHF",
+          "termMeaning":"Congestive heart failure",
+                      "pronounciation":"6",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"DNR",
+          "termMeaning":"Do not resuscitate, an indication that the patient does not want CPR or other life-saving procedures performed on them",
+                      "pronounciation":"7",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"ECG or EKG",
+          "termMeaning":" Electrocardiogram, a device that records heartbeats",
+                      "pronounciation":"8",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"EMS",
+          "termMeaning":"Emergency medical services",
+                      "pronounciation":"9",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"FX",
+          "termMeaning":"Fracture",
+                      "pronounciation":"10",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"HR",
+          "termMeaning":"Heart rate, the number of times a person's heart beats, usually measured per minute",
+                      "pronounciation":"11",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"LFT",
+          "termMeaning":"Liver function test",
+                      "pronounciation":"12",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"MRI",
+          "termMeaning":"Magnetic resonance imaging, diagnostic imaging that uses magnetism and radio waves to produce images of internal organs",
+                      "pronounciation":"13",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"PT",
+          "termMeaning":"Physical therapy",
+                      "pronounciation":"14",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"Rx",
+          "termMeaning":"Prescription",
+                      "pronounciation":"15",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"UTI",
+          "termMeaning":"Urinary tract infection",
+                      "pronounciation":"16",
+                      "type": "Abbreviations and acronyms"
+        },
+        {
+          "medicalTerm":"Acute",
+          "termMeaning":"A condition that is often severe but starts and ends quickly",
+                      "pronounciation":"17",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Angina",
+          "termMeaning":"Intermittent chest pain normally caused by insufficient blood flow to the heart",
+                      "pronounciation":"18",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Benign",
+          "termMeaning":"Refers to a tumor that is neither cancerous nor malignant",
+                      "pronounciation":"19",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Chronic",
+          "termMeaning":"Describes a condition that is persistent or recurring",
+                      "pronounciation":"20",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Edema",
+          "termMeaning":"Swelling as a result of fluid retention or buildup",
+                      "pronounciation":"21",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Embolism",
+          "termMeaning":" A clot caused by blood, fat, air or other types of fluid, gas or foreign material",
+                      "pronounciation":"22",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Fracture",
+          "termMeaning":"A cracked or broken bone",
+                      "pronounciation":"23",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Hypertension",
+          "termMeaning":"Unusually high blood pressure",
+                      "pronounciation":"24",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Hypotension",
+          "termMeaning":"Unusually low blood pressure",
+                      "pronounciation":"25",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Intravenous",
+          "termMeaning":"Administration of medication or fluids by vein",
+                      "pronounciation":"26",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Lesion",
+          "termMeaning":"Damage or change to tissue, such as a cut, a wound or a sore",
+                      "pronounciation":"27",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Malignant",
+          "termMeaning":"Refers to the presence of cancerous cells in a tumor or growth",
+                      "pronounciation":"28",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Myocardial infarction",
+          "termMeaning":"Also known as a heart attack, where the heart is deprived of blood due to arterial blockage",
+                      "pronounciation":"29",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Remission",
+          "termMeaning":"Describes a disease that is not getting worse",
+                      "pronounciation":"30",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Sepsis",
+          "termMeaning":" An imbalance in the body's response to infection that injures the body's tissues and organs",
+                      "pronounciation":"31",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Thrombosis",
+          "termMeaning":"A blood clot that forms inside a blood vessel restricting blood flow",
+                      "pronounciation":"32",
+                      "type": "Diseases and conditions"
+        },
+        {
+          "medicalTerm":"Afib",
+          "termMeaning":"Atrial fibrillation, irregular and rapid heartbeats",
+                      "pronounciation":"33",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Bagging",
+          "termMeaning":"Helping a patient breathe using a squeeze bag attached to a face mask",
+                      "pronounciation":"34",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"C-section",
+          "termMeaning":"Caesarian section, where a baby is delivered through an abdominal and uterine incision",
+                      "pronounciation":"35",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Detox",
+          "termMeaning":"Detoxification, the removal of toxins from the body, such as drugs or alcohol",
+                      "pronounciation":"36",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Exam",
+          "termMeaning":"Examination",
+                      "pronounciation":"37",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Foley",
+          "termMeaning":"A catheter inserted into the bladder to help with urinary drainage",
+                      "pronounciation":"38",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"GCS",
+          "termMeaning":"Glascow Coma Scale, level of consciousness",
+                      "pronounciation":"39",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Labs",
+          "termMeaning":"Laboratory work or tests",
+                      "pronounciation":"40",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"MVA",
+          "termMeaning":"Motor vehicle accident",
+                      "pronounciation":"41",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Nitro",
+          "termMeaning":"Nitroglycerin",
+                      "pronounciation":"42",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"O sign",
+          "termMeaning":"A patient who is unconscious and open-mouthed",
+                      "pronounciation":"43",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"OD'd",
+          "termMeaning":"Overdosed",
+                      "pronounciation":"44",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Script",
+          "termMeaning":"Prescription",
+                      "pronounciation":"45",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Stat",
+          "termMeaning":"Immediately",
+                      "pronounciation":"46",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Thready",
+          "termMeaning":"Shallow and weak, particularly in reference to a person's pulse",
+                      "pronounciation":"47",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"Tox screen",
+          "termMeaning":"A blood test to determine the type and quantity of drugs in the system",
+                      "pronounciation":"48",
+                      "type": "Medical slang"
+        },
+        {
+          "medicalTerm":"A- or an-",
+          "termMeaning":"Lacking or without",
+                      "pronounciation":"49",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"Ab-",
+          "termMeaning":" Away from",
+                      "pronounciation":"50",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"-algia",
+          "termMeaning":"Indicates pain or a painful condition",
+                      "pronounciation":"51",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"Cardio-",
+          "termMeaning":"Related to the heart",
+                      "pronounciation":"52",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"Ecto- or exo-",
+          "termMeaning":"Outside of",
+                      "pronounciation":"53",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"-ectomy",
+          "termMeaning":"Removal through surgery",
+                      "pronounciation":"54",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"Hyper-",
+          "termMeaning":"Above, beyond or in excess",
+                      "pronounciation":"55",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"-itis",
+          "termMeaning":"An inflammation",
+                      "pronounciation":"56",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"-mortem",
+          "termMeaning":"Relating to death",
+                      "pronounciation":"57",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"-plasty",
+          "termMeaning":"Repair through surgery",
+                      "pronounciation":"58",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"Post-",
+          "termMeaning":"After or behind",
+                      "pronounciation":"59",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"-rrhea",
+          "termMeaning":"A discharge or a flow",
+                      "pronounciation":"60",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"-somnia",
+          "termMeaning":"Related to sleep",
+                      "pronounciation":"61",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"Trans-",
+          "termMeaning":"Across or through",
+                      "pronounciation":"62",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"-trophic",
+          "termMeaning":"Relating to nutrition",
+                      "pronounciation":"63",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"Vas(o)-",
+          "termMeaning":"Relating to a vessel",
+                      "pronounciation":"64",
+                      "type": "Prefixes and suffixes"
+        },
+        {
+          "medicalTerm":"Appendectomy",
+          "termMeaning":"Surgical procedure to remove the appendix",
+                      "pronounciation":"65",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Biopsy",
+          "termMeaning":"Removal of a small tissue sample for testing",
+                      "pronounciation":"66",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Blood culture",
+          "termMeaning":"Test to reveal the existence of fungi or bacteria in the blood, possibly indicating an infection",
+                      "pronounciation":"67",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Blood swab",
+          "termMeaning":"Taking a blood sample using a cotton-tipped stick",
+                      "pronounciation":"68",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Coronary bypass",
+          "termMeaning":"Surgical transplant of a healthy blood vessel into the heart to bypass or replace an unhealthy vessel",
+                      "pronounciation":"69",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Dialysis",
+          "termMeaning":"Process to filter the blood, usually performed as a result of kidney failure",
+                      "pronounciation":"70",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Fusion",
+          "termMeaning":"Joining together adjacent bones or vertebrae to increase stability",
+                      "pronounciation":"71",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Glucose test",
+          "termMeaning":"A test to discover the quantity of a particular type of sugar in the bloodstream",
+                      "pronounciation":"72",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Hysterectomy",
+          "termMeaning":"Surgical procedure to remove the uterus",
+                      "pronounciation":"73",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Intubation",
+          "termMeaning":"Medical insertion of a tube into the body, for example, into the throat to assist with breathing",
+                      "pronounciation":"74",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Lead test",
+          "termMeaning":"A test to reveal the quantity of lead in the bloodstream",
+                      "pronounciation":"75",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Lumbar puncture or spinal tap",
+          "termMeaning":"Drawing of cerebrospinal fluid from the lumbar region of the back using a hollow needle",
+                      "pronounciation":"76",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Mastectomy",
+          "termMeaning":"Surgical procedure to remove part or all of the breast",
+                      "pronounciation":"77",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Occult blood screen",
+          "termMeaning":"Use of a chemically treated card or pad to test for blood hidden in a stool sample",
+                      "pronounciation":"78",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Ultrasound",
+          "termMeaning":"Imaging produced by high-frequency sound waves, usually used to view internal organs",
+                      "pronounciation":"79",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"X-ray",
+          "termMeaning":"Use of high-energy electromagnetic radiation to create images of internal bones and organs",
+                      "pronounciation":"80",
+                      "type": "Procedures and tests"
+        },
+        {
+          "medicalTerm":"Aqua-",
+          "termMeaning":"Pertaining to water",
+                      "pronounciation":"81",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Asphyxia",
+          "termMeaning":"Choking or loss of consciousness due to oxygen deprivation",
+                      "pronounciation":"82",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Carcin(o)-",
+          "termMeaning":"Related to or causing cancer",
+                      "pronounciation":"83",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Cyto-",
+          "termMeaning":"Pertaining to a cell or cells",
+                      "pronounciation":"84",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Derma-",
+          "termMeaning":"To do with the skin",
+                      "pronounciation":"85",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Digit",
+          "termMeaning":"Either a finger or a toe",
+                      "pronounciation":"86",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Encephal(o)-",
+          "termMeaning":"To do with the brain",
+                      "pronounciation":"87",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Gastr(o)-",
+          "termMeaning":"Related to the stomach",
+                      "pronounciation":"88",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Lact-",
+          "termMeaning":"Pertaining to milk",
+                      "pronounciation":"89",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Men-",
+          "termMeaning":"A month or occurring monthly",
+                      "pronounciation":"90",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Nephr(o)-",
+          "termMeaning":"Related to the kidneys",
+                      "pronounciation":"91",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Onc(o)-",
+          "termMeaning":"To do with tumors or masses, often related to cancer",
+                      "pronounciation":"92",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Ov-",
+          "termMeaning":"Pertaining to eggs",
+                      "pronounciation":"93",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Pulmon(o)-",
+          "termMeaning":"To do with the lungs",
+                      "pronounciation":"94",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Stasis",
+          "termMeaning":"Causing the flow of a fluid, such as blood, to slow or stop",
+                      "pronounciation":"95",
+                      "type": "Root words"
+        },
+        {
+          "medicalTerm":"Viscous or viscosity",
+          "termMeaning":"Sticky or thick, thickness",
+                      "pronounciation":"96",
+                      "type": "Root words"
+        }
+    ]
+}
+

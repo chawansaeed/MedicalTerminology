@@ -7,23 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FFBB179A2C63B07D008ADF94 /* TermsDescription.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBB17992C63B07C008ADF94 /* TermsDescription.swift */; };
+		FFBB17A62C64F277008ADF94 /* About.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFBB17A42C64F277008ADF94 /* About.storyboard */; };
+		FFBB17A82C6543C2008ADF94 /* AboutTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBB17A72C6543C2008ADF94 /* AboutTableViewController.swift */; };
+		FFBB17AA2C654E0A008ADF94 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFBB17A92C654E0A008ADF94 /* AboutUsViewController.swift */; };
 		FFF0C3612C556DE600D82251 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFF0C3602C556DE600D82251 /* AppDelegate.swift */; };
-		FFF0C3632C556DE600D82251 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFF0C3622C556DE600D82251 /* ViewController.swift */; };
 		FFF0C3662C556DE600D82251 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFF0C3642C556DE600D82251 /* Main.storyboard */; };
 		FFF0C3692C556DE600D82251 /* MTerm.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FFF0C3672C556DE600D82251 /* MTerm.xcdatamodeld */; };
 		FFF0C36B2C556DE600D82251 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFF0C36A2C556DE600D82251 /* Assets.xcassets */; };
 		FFF0C36E2C556DE600D82251 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFF0C36C2C556DE600D82251 /* LaunchScreen.storyboard */; };
+		FFF0C3762C556E6B00D82251 /* MedicalTermsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFF0C3752C556E6B00D82251 /* MedicalTermsTableViewController.swift */; };
+		FFF0C3782C5575DE00D82251 /* TermsJsonData.json in Resources */ = {isa = PBXBuildFile; fileRef = FFF0C3772C5575DE00D82251 /* TermsJsonData.json */; };
+		FFF0C37A2C55775100D82251 /* Information.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFF0C3792C55775100D82251 /* Information.swift */; };
+		FFF0C37C2C55788800D82251 /* MedicalTermsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFF0C37B2C55788800D82251 /* MedicalTermsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FFBB17992C63B07C008ADF94 /* TermsDescription.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsDescription.swift; sourceTree = "<group>"; };
+		FFBB17A52C64F277008ADF94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/About.storyboard; sourceTree = "<group>"; };
+		FFBB17A72C6543C2008ADF94 /* AboutTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutTableViewController.swift; sourceTree = "<group>"; };
+		FFBB17A92C654E0A008ADF94 /* AboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
 		FFF0C35D2C556DE600D82251 /* MTerm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MTerm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFF0C3602C556DE600D82251 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FFF0C3622C556DE600D82251 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FFF0C3652C556DE600D82251 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FFF0C3682C556DE600D82251 /* MTerm.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MTerm.xcdatamodel; sourceTree = "<group>"; };
 		FFF0C36A2C556DE600D82251 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FFF0C36D2C556DE600D82251 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FFF0C36F2C556DE600D82251 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFF0C3752C556E6B00D82251 /* MedicalTermsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MedicalTermsTableViewController.swift; sourceTree = "<group>"; };
+		FFF0C3772C5575DE00D82251 /* TermsJsonData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TermsJsonData.json; sourceTree = "<group>"; };
+		FFF0C3792C55775100D82251 /* Information.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Information.swift; sourceTree = "<group>"; };
+		FFF0C37B2C55788800D82251 /* MedicalTermsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MedicalTermsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +51,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FF6FD4932C7F528E004C1E78 /* FirstView */ = {
+			isa = PBXGroup;
+			children = (
+				FFF0C3642C556DE600D82251 /* Main.storyboard */,
+				FFF0C3752C556E6B00D82251 /* MedicalTermsTableViewController.swift */,
+				FFF0C37B2C55788800D82251 /* MedicalTermsTableViewCell.swift */,
+				FFBB17992C63B07C008ADF94 /* TermsDescription.swift */,
+			);
+			name = FirstView;
+			sourceTree = "<group>";
+		};
+		FF6FD4942C7F52A7004C1E78 /* AboutView */ = {
+			isa = PBXGroup;
+			children = (
+				FFBB17A42C64F277008ADF94 /* About.storyboard */,
+				FFBB17A92C654E0A008ADF94 /* AboutUsViewController.swift */,
+				FFBB17A72C6543C2008ADF94 /* AboutTableViewController.swift */,
+			);
+			name = AboutView;
+			sourceTree = "<group>";
+		};
 		FFF0C3542C556DE600D82251 = {
 			isa = PBXGroup;
 			children = (
@@ -57,8 +92,10 @@
 			isa = PBXGroup;
 			children = (
 				FFF0C3602C556DE600D82251 /* AppDelegate.swift */,
-				FFF0C3622C556DE600D82251 /* ViewController.swift */,
-				FFF0C3642C556DE600D82251 /* Main.storyboard */,
+				FF6FD4942C7F52A7004C1E78 /* AboutView */,
+				FF6FD4932C7F528E004C1E78 /* FirstView */,
+				FFF0C3772C5575DE00D82251 /* TermsJsonData.json */,
+				FFF0C3792C55775100D82251 /* Information.swift */,
 				FFF0C36A2C556DE600D82251 /* Assets.xcassets */,
 				FFF0C36C2C556DE600D82251 /* LaunchScreen.storyboard */,
 				FFF0C36F2C556DE600D82251 /* Info.plist */,
@@ -126,6 +163,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FFF0C36E2C556DE600D82251 /* LaunchScreen.storyboard in Resources */,
+				FFBB17A62C64F277008ADF94 /* About.storyboard in Resources */,
+				FFF0C3782C5575DE00D82251 /* TermsJsonData.json in Resources */,
 				FFF0C36B2C556DE600D82251 /* Assets.xcassets in Resources */,
 				FFF0C3662C556DE600D82251 /* Main.storyboard in Resources */,
 			);
@@ -138,8 +177,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFBB17AA2C654E0A008ADF94 /* AboutUsViewController.swift in Sources */,
+				FFF0C3762C556E6B00D82251 /* MedicalTermsTableViewController.swift in Sources */,
 				FFF0C3692C556DE600D82251 /* MTerm.xcdatamodeld in Sources */,
-				FFF0C3632C556DE600D82251 /* ViewController.swift in Sources */,
+				FFBB179A2C63B07D008ADF94 /* TermsDescription.swift in Sources */,
+				FFF0C37C2C55788800D82251 /* MedicalTermsTableViewCell.swift in Sources */,
+				FFBB17A82C6543C2008ADF94 /* AboutTableViewController.swift in Sources */,
+				FFF0C37A2C55775100D82251 /* Information.swift in Sources */,
 				FFF0C3612C556DE600D82251 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -147,6 +191,14 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		FFBB17A42C64F277008ADF94 /* About.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFBB17A52C64F277008ADF94 /* Base */,
+			);
+			name = About.storyboard;
+			sourceTree = "<group>";
+		};
 		FFF0C3642C556DE600D82251 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -290,6 +342,7 @@
 				FFF0C3742C556DE600D82251 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

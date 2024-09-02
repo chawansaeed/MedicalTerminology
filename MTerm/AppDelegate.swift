@@ -17,6 +17,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+//        UITabBar.appearance().i = UIImage(named: "about")
+//        tintColor - this property allows you to change the tint color of the tab bar item.
+//            UITabBar.appearance().tintColor = UIColor(red: 235.0/255.0, green: 75.0/255.0, blue: 27.0/255.0, alpha: 1.0)
+//        barTintColor - this property lets you change the tint color of the tab bar background. The code below changes the background color to black:
+//        UITabBar.appearance().barTintColor = UIColor.blackColor()
         return true
     }
 
